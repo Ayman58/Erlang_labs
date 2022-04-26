@@ -1,0 +1,24 @@
+msisdn1,data1,bonus1
+msisdn2,data2,bonus2
+msisdn3,data3,bonus3
+msisdn4,data4,bonus4
+msisdn5,data5,bonus5
+msisdn6,data6,bonus6
+msisdn7,data7,bonus7
+msisdn8,data8,bonus8
+msisdn9,data9,bonus9
+msisdn10,data10,bonus10
+
+
+
+
+​% 12345678,dd,22
+​% 91011121,dd2,45
+​% 13141516,dd3,55
+​% 17181920,dd4,46
+​% 21222324,dd5,66
+​% 25262728,dd6,77
+​% 30313233,dd7,43
+​% 34353637,dd8,42
+​% 38394041,dd9,25
+​% 42434445,dd10,70
